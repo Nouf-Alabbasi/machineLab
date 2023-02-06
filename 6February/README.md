@@ -27,7 +27,7 @@ I also wasn't sure if I wanted my slider to be held in place by a peice of carbo
 
 The up and down movement of the cam follower reminded me of rabbits coming out of magicians’ hats so I decided to add a rabbit to the cam follower and a magician that is "moving" saw beside the slider. (also I have been informed that the rabbits come out of the hat oppening and not the top of the hat, so the rabbit and hat thing here is inaccurate lol)(I also asked my sister to draw the magician)
 <p align="center">
-  <img src="9.png" width="350" width="350">
+  <img src="9.jpeg" width="350" width="350">
 </p>
 <p align="center">
   <img src="2.png" width="350" width="350">
