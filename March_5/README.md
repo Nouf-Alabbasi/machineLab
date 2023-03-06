@@ -1,6 +1,6 @@
 ## 
 <p algin="center">
-  <img src="pic11.PNG" width="350">
+  <img src="Pic11.PNG" width="350">
 </p>
 <p algin="center">
   <img src="gif1.webp" width="350">
