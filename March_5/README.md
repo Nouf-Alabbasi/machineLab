@@ -1,6 +1,13 @@
+## 
+<p algin="center">
+  <img src="pic11.PNG" width="350">
+</p>
+<p algin="center">
+  <img src="gif1.webp" width="350">
+</p>
 
 
-asthetic inspiration
+## aesthetic inspiration
 <p algin="center">
   <img src="pic1.jpg" width="350">
 </p>
