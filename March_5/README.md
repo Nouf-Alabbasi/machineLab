@@ -9,7 +9,7 @@ But not all of the myths seemed to be created to prevent children from doing thi
 
 الحمارة القايلة noon
 
-الطَنْطل/جاثوم night
+أم السعف والليف night
 
 بابا درياه/بودرياه before sunrise
 
