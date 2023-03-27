@@ -13,9 +13,44 @@ I picked a few of the ones that were associated with a time of day:
 
 بابا درياه/بودرياه before sunrise
 
+## design process
+#### idea 1
+I was not sure how to incoperate all 3 myths in my project so I sketched out a few ideas. One was to create 3 seperate 2d automata (inspired by wolfcatworkshop.com's automata) and then bringing each "scene" up after each other(like the image below labeled "idea 1 img"). but this would require me to handle all the wires connected to the motors and wasn't ideal in general.
 <p algin="center">
-  <img src="imgs/brainstorming/Pic11.PNG" width="350">
+  <img src="imgs/design/img_5.webp" width="350">
 </p>
+<p algin="center">
+  <img src="imgs/design/img_6.png" width="350">
+</p>
+<figure ">
+  <img src="imgs/design/img_7.png" width="350">
+  <figcaption > idea 1 img </figcaption>
+</figure>
+
+#### idea 2
+Another idea was to set all the myths in side a room in a traditional house. So the myth's creatures would peek into the window or through the door. Initially one of the myth was one that took place in the house but I decided not to inlcude that one, and all the other myths take place outside so it became pointless to set the myths inside a house.
+<p algin="center">
+  <img src="imgs/design/img_1.png" width="350">
+</p>
+<p algin="center">
+  <img src="imgs/design/img_2.png" width="350">
+</p>
+
+#### idea 3
+One idea was to create 2D automata and place them on the walls of the box. or maybe as a comic strip. I didn't continue with those ideas though.
+<p algin="center">
+  <img src="imgs/design/img_3.png" width="350">
+</p>
+
+#### idea 4
+I liked how the myths looked beside each other so I decided to find a way to place them beside each other in a cohesive way and setteled on this.
+<p algin="center">
+  <img src="imgs/design/img_4.png" width="350">
+</p>
+
+this is how I generally wanted it to look like and then I started working out the details.
+
+
 <p algin="center">
   <img src="imgs/brainstorming/gif1.webp" width="350">
 </p>
