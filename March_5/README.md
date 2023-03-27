@@ -53,6 +53,8 @@ I liked how the myths looked beside each other so I decided to find a way to pla
 The house is where the "Hemarat Algayla" myth would take place around noon, the palms is where the myth of "Um Alsaaf w el leaf" would be, and finall the water is where "bu darya" myth would take place. I also added a sun and a moon to indicate the time the myth is taking place in. I was talking to people and someone mentioned hvaing a disk with a night and morning sky instead of just having a moon and sun on a wire around the main middle part.
 this is how I generally wanted it to look like and then I started working out the details.
 
+
+# _
 ##### Hemarat Algayla
 <p algin="center">
   <img src="imgs/design/img_8.png" width="350">
@@ -62,6 +64,7 @@ this is how part is from the side.
   <img src="imgs/design/img_9.png" width="350">
 </p>
 
+# _
 ##### Um Alsaaf w el leaf
 <p algin="center">
   <img src="imgs/design/img_10.png" width="350">
@@ -71,6 +74,8 @@ I might use something like this to make the child and "Um Alsaaf w el leaf" run
   <img src="imgs/brainstorming/gif1.webp" width="350">
 </p>
 
+
+# _
 ##### bu darya
 <p algin="center">
   <img src="imgs/design/img_11.png" width="350">
@@ -79,6 +84,8 @@ I might use something like this to make the child and "Um Alsaaf w el leaf" run
   <img src="imgs/design/img_12.png" width="350">
 </p>
 
+
+# _
 #### motion needed
 I noted down the type of motion needed for each part.
 <p algin="center">
