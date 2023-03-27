@@ -14,51 +14,51 @@ I picked a few of the ones that were associated with a time of day:
 بابا درياه/بودرياه before sunrise
 
 <p algin="center">
-  <img src="Pic11.PNG" width="350">
+  <img src="imgs/brainstorming/Pic11.PNG" width="350">
 </p>
 <p algin="center">
-  <img src="gif1.webp" width="350">
+  <img src="imgs/brainstorming/gif1.webp" width="350">
 </p>
 
 
 ## aesthetic inspiration
 <p algin="center">
-  <img src="pic1.jpg" width="350">
+  <img src="imgs/brainstorming/pic1.jpg" width="350">
 </p>
 
 <p algin="center">
-  <img src="pic2.jpg" width="350">
+  <img src="imgs/brainstorming/pic2.jpg" width="350">
 </p>
 
 <p algin="center">
-  <img src="pic3.jpg" width="350">
+  <img src="imgs/brainstorming/pic3.jpg" width="350">
 </p>
 
 <p algin="center">
-  <img src="pic4.jpg" width="350">
+  <img src="imgs/brainstorming/pic4.jpg" width="350">
 </p>
 
 <p algin="center">
-  <img src="pic5.jpg" width="350">
+  <img src="imgs/brainstorming/pic5.jpg" width="350">
 </p>
 
 <p algin="center">
-  <img src="pic6.jpg" width="350">
+  <img src="imgs/brainstorming/pic6.jpg" width="350">
 </p>
 
 <p algin="center">
-  <img src="pic7.jpg" width="350">
+  <img src="imgs/brainstorming/pic7.jpg" width="350">
 </p>
 
 <p algin="center">
-  <img src="pic8.jpg" width="350">
+  <img src="imgs/brainstorming/pic8.jpg" width="350">
 </p>
 
 
 <p algin="center">
-  <img src="pic9.png" width="350">
+  <img src="imgs/brainstorming/pic9.png" width="350">
 </p>
 
 <p algin="center">
-  <img src="pic10.jpeg" width="350">
+  <img src="imgs/brainstorming/pic10.jpeg" width="350">
 </p>
