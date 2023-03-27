@@ -168,7 +168,9 @@ I decided to use the mechanism we prevoiusly used to turn circular motion to lin
 <p algin="center">
   <img src="imgs/process/img_21.png" width="100">
 </p>
-
+<p algin="center">
+  <img src="imgs/process/img_22.jpeg" width="350">
+</p>
 ## aesthetic inspiration
 <p algin="center">
   <img src="imgs/brainstorming/pic1.jpg" width="350">
