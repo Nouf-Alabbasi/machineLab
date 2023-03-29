@@ -124,7 +124,7 @@ The first cam is for "bu Darya" where it would rise and go down 3 times, the sec
 
 I cut the peices out of carbaord, but after so much trial and error I realized that a. the friction is too much. I tried to fix this by sticking smooth tape on top of the cam and that improved the movement a bit. but then there is the second probleme b. the cam shape that produces the best movement doesn't have a deep enough drop
 <p algin="center">
-  <img src="imgs/design/img_8.png" width="100">
+  <img src="imgs/process/img_8.png" width="100">
 </p>
 <p algin="center">
   <img src="imgs/process/img_9.png" width="100">
